@@ -21,10 +21,13 @@ A modern, responsive dashboard for monitoring and optimizing home energy consump
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
 ## 📊 Screenshots
+![Dark-Mode](https://github.com/user-attachments/assets/718f1117-23aa-4a28-b6fe-27ce62ea3101)
 
-![Dashboard](https://via.placeholder.com/800x450?text=Smart+Home+Energy+Dashboard)
-![Energy Charts](https://via.placeholder.com/800x450?text=Energy+Charts)
-![AI Assistant](https://via.placeholder.com/800x450?text=AI+Assistant)
+![Light-Mode](https://github.com/user-attachments/assets/802e6487-72b1-4da5-bc74-54e450f56178)
+
+
+
+
 
 ## 🚀 Getting Started
 
