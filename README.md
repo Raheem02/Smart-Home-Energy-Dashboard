@@ -50,19 +50,12 @@ A modern, responsive dashboard for monitoring and optimizing home energy consump
    npm install
    ```
 
-3. Set up environment variables:
-   Create a `.env` file in the root directory with the following variables:
-   ```
-   VITE_SUPABASE_URL=your_supabase_url
-   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-   ```
-
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## 🗄️ Database Setup
 
@@ -326,15 +319,6 @@ npm run build
 ```
 
 The build artifacts will be stored in the `dist/` directory.
-
-## 🔄 Future Enhancements
-
-- Integration with smart home platforms (Google Home, Amazon Alexa)
-- Machine learning for predictive energy usage patterns
-- Mobile app with push notifications
-- Energy cost optimization based on time-of-use rates
-- Community features for comparing energy usage with neighbors
-
 
 ## 🙏 Acknowledgements
 
